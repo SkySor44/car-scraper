@@ -1,0 +1,24 @@
+{
+  "name": "car-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkySor44/car-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkySor44/car-scraper/issues"
+  },
+  "homepage": "https://github.com/SkySor44/car-scraper#readme",
+  "dependencies": {
+    "cypress": "^6.2.1"
+  }
+}
